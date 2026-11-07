@@ -13,6 +13,7 @@ Streaming information, device setup guides and entertainment resources.
 - [IPTV Setup Guide](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-setup-guide.html)
 - [Device Compatibility](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-devices-guide.html)
 - [Internet Requirements](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-internet-requirements.html)
+- [M3U Playlist Inspector](https://drxalan32.github.io/m3u-playlist-inspector/) — tools for inspecting and organizing M3U playlists.
 
 ## Before Subscribing
 
