@@ -1,31 +1,25 @@
-# Kemo TV
+# Kemo IPTV
 
-**Kemo TV — Service Information, Setup Guides and Device Compatibility.**
+**Live TV · Sports · Movies & Series**
 
-Visit our website: [kemoiptv.digital](https://kemoiptv.digital/)
+Streaming information, device setup guides and entertainment resources.
 
-Welcome to the Kemo TV GitHub organization. We share service information and practical reference guides about internet television.
+🌐 **Website:** https://kemoiptv.digital/
 
-## Explore
+## Explore Kemo IPTV
 
-- 🌐 [Kemo TV Website](https://kemoiptv.digital/)
-- 📘 [IPTV Guide UK](https://drxalan32.github.io/M3U-Playlist-Guide/)
-- 📺 [Kemo TV Information Page](https://drxalan32.github.io/M3U-Playlist-Guide/kemo-tv/)
+- [Kemo IPTV Website](https://kemoiptv.digital/)
+- [IPTV Guide UK](https://drxalan32.github.io/M3U-Playlist-Guide/)
+- [IPTV Setup Guide](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-setup-guide.html)
+- [Device Compatibility](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-devices-guide.html)
+- [Internet Requirements](https://drxalan32.github.io/M3U-Playlist-Guide/guides/iptv-internet-requirements.html)
 
 ## Before Subscribing
 
-Please verify:
+Check current pricing, regional availability, supported devices, renewal and cancellation terms, privacy information, and whether the provider is authorised to distribute the content offered in your location.
 
-- Availability in your country.
-- Supported apps and devices.
-- Pricing, renewals and cancellation terms.
-- Customer support and privacy policy.
-- Authorisation to distribute the content offered in your location.
+IPTV is a delivery technology; it does not itself establish content-distribution rights. Only access content you are legally entitled to watch.
 
-IPTV is a delivery technology. It does not itself establish content-distribution rights. Only access content you are legally entitled to watch.
+---
 
-## About Kemo TV
-
-This organization shares Kemo TV-related information and useful technical references. Always check current service information directly with the provider.
-
-**Website:** https://kemoiptv.digital/
+**Visit:** https://kemoiptv.digital/
